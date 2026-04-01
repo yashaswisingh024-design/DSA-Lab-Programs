@@ -1,3 +1,4 @@
+// Linear Queue implementation using array with enqueue and dequeue operations
 #include <stdio.h>
 #define MAX 5
 
