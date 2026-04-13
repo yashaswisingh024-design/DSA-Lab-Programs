@@ -23,3 +23,26 @@ Underflow → When queue is empty (front > rear or front == -1)
 ⏱ Time Complexity
 Enqueue → O(1)
 Dequeue → O(1)
+
+🔍 Binary Search (C)
+
+Implementation of Binary Search algorithm in C to efficiently find an element in a sorted array.
+
+🚀 Features
+
+- Efficient searching (O(log n))
+- Works on sorted arrays
+- Simple and clean implementation
+
+▶️ Run
+
+gcc binary_search.c -o output
+./output
+
+📊 Output
+
+Element found at index 2
+
+🧠 Concept
+
+Binary Search works by repeatedly dividing the search space into halves until the element is found.
