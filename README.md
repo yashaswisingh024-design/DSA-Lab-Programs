@@ -12,6 +12,7 @@ Underflow → When stack is empty
 Push → O(1)
 Pop → O(1)
 Peek → O(1)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Linear queue implementation
 ⚙️ Operations
 Enqueue → Insert element at rear
@@ -23,3 +24,4 @@ Underflow → When queue is empty (front > rear or front == -1)
 ⏱ Time Complexity
 Enqueue → O(1)
 Dequeue → O(1)
+**--
